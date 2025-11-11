@@ -35,4 +35,5 @@ The program allows you to choose:
 
 ## Project Files
 1. Math Practice Problem Generator.py
-2. README.md
+2. sample_output.md
+3. README.md
